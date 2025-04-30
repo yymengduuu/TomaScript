@@ -14,10 +14,6 @@ A simple JSP + JavaScript front-end mock dashboard for a bank account.
 2. Deploy the `TomaBankUI.war` to the `webapps/` directory.
 3. Visit `http://localhost:8080/TomaBankUI/dashboard.jsp`.
 
-## Sample Screenshot
-
-![screenshot](./assets/screenshot.png)
-
 ## Author
 
 Made with ❤️ by Yumeng.
