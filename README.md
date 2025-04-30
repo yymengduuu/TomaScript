@@ -10,7 +10,7 @@ View the live version of the UI here:
 > Note: The live demo only reflects static frontend behavior. Full dynamic functionality requires local Tomcat deployment.
 
 ## Access the project at:
-➡️ （http://localhost:8080/TomaBankUI/）
+➡️ http://localhost:8080/TomaBankUI/
 
 ## Features
 
