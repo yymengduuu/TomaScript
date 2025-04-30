@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "./webapp/js",
+    "strict": true,
+    "module": "es6"
+  },
+  "include": ["src/**/*"]
+}

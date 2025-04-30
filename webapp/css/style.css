@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .dashboard {
+    max-width: 400px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    color: #003366;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
